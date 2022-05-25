@@ -1,0 +1,3 @@
+export const STORAGE_ACCESS_TOKEN = "MYGX_AccessToken"
+export const STORAGE_PASS_BILL = "MYGX_PASS_BILL"
+export const STORAGE_ACCOUNT = "MYGX_ACCOUNT"
